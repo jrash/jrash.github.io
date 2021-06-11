@@ -16,7 +16,7 @@ output:
  
 ## Bio
 
-Jeremy Ash's research is at the interface of cheminformatics, bioinformatics, and data science. He is an experienced software developer with a concentration on machine learning methods and user friendly software for the analysis of chemical data. Jeremy started off in bioinformatics, so he has a special interest in combining bioinformatics and cheminformatics methodologies. His dissertation was on statistical methods development for QSAR models – models predicting the bioactivity of small molecules given their chemical structure.
+Jeremy's research is at the interface of cheminformatics, bioinformatics, and data science. He creates software that helps researchers apply machine learning methods to chemical data. His dissertation was on statistical methods development for QSAR models – models predicting the bioactivity of small molecules given their chemical structure.
 
 ## Education
 
