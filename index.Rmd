@@ -1,40 +1,33 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Jeremy Ash"
+image: "my_picture.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/jeremyryanash/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/jeremyr_ash"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/jrash"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:jeremyryanash@gmail.com"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Jeremy Ash's research is at the interface of cheminformatics, bioinformatics, and data science. He is an experienced software developer with a concentration on machine learning methods and user friendly software for the analysis of chemical data. Jeremy started off in bioinformatics, so he has a special interest in combining bioinformatics and cheminformatics methodologies. His dissertation was on statistical methods development for QSAR models – models predicting the bioactivity of small molecules given their chemical structure.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**North Carolina State University** | Raleigh, NC
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Ph. D. in Bioinformatics | M. S. in Statistics
 
-**The University of California, Berkeley** | Berkeley, CA
+**The University of Texas, Austin** | Austin, TX
 
-B.S. in Computer Science | September 2005 - May 2009
+B.S. in Biology
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
+**SAS** | Research Statistician in JMP R&D | January 2020 - Present
