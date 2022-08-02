@@ -32,4 +32,6 @@ B.S. in Biology
 
 ## Experience
 
-**SAS** | Research Statistician in JMP R&D | January 2020 - Present
+**SAS** | Research Statistician in JMP R&D | Jan 2020 - Feb 2022
+
+**Janssen Pharmaceutical Companies of Johnson & Johnson** | AI/ML Drug Discovery Data Scientist | Feb 2022 - PRESENT
