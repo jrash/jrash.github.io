@@ -4,8 +4,6 @@ image: "my_picture.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/jeremyryanash/"
-  - label: Twitter
-    url: "https://twitter.com/jeremyr_ash"
   - label: GitHub
     url: "https://github.com/jrash"
   - label: Email
@@ -34,4 +32,4 @@ B.S. in Biology
 
 **SAS** | Research Statistician in JMP R&D | Jan 2020 - Feb 2022
 
-**Janssen Pharmaceutical Companies of Johnson & Johnson** | AI/ML Drug Discovery Data Scientist | Feb 2022 - PRESENT
+**Johnson & Johnson Innovative Medicine** | AI/ML Drug Discovery Data Scientist | Feb 2022 - PRESENT
